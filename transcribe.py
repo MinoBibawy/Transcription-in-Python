@@ -5,7 +5,6 @@ from pydub.silence import split_on_silence
 
 r = sr.Recognizer()
 
-
 def get_large_audio_transcription(path):
 
     sound = AudioSegment.from_wav(path)  
