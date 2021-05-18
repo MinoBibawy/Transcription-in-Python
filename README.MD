@@ -1,4 +1,6 @@
 # Documentation of Transcribe
+> pip install SpeechRecognition <br>
+> pip install pydub <br>
 ### Infos:
 1. The file must be .WAV <br>
 2. You can change the language as you want.<br>
